@@ -1,7 +1,6 @@
-package com.otelrezervasyon;
+package com.otelrezervasyon.tests;
 
 import io.restassured.http.ContentType;
-import io.restassured.internal.common.assertion.Assertion;
 import io.restassured.response.Response;
 import org.json.JSONObject;
 import org.junit.jupiter.api.Assertions;
